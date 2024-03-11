@@ -1,0 +1,4 @@
+[build]
+  base = "/opt/build/repo"
+  command = "npm run build"
+  publish = ".next"  # Change the publish directory to .next
